@@ -1,0 +1,1 @@
+# static_deploy_task2
